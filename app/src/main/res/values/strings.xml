@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LEARN TENSES</string>
+    <string name="search_materi">Ketik Judul Materi</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="add_favorite">Tambah favorit</string>
+    <string name="back">Kembali</string>
+    <string name="delete_favorite">Hapus favorit</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="empty_favorite">Tidak ada favorite</string>
+
+</resources>
