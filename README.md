@@ -74,7 +74,6 @@ Project Link: [https://github.com/username_anda/story-app](https://github.com/us
 
 ## 🙏 Acknowledgments
 
-- [Dicoding Story API](https://story-api.dicoding.dev/v1/)
 - [Android Jetpack](https://developer.android.com/jetpack)
 - [Google Maps Platform](https://developers.google.com/maps/documentation/android-sdk/overview)
 - [Kotlin](https://kotlinlang.org/)
